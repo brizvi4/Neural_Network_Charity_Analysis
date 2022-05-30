@@ -18,3 +18,7 @@ In this module, I helped Becks to analyze donations received by corporations fro
 - The output layer had 30 inputs (number of neurons from the second hidden layer), 1 neuron, and 1 bias term
 - Both the first and second hidden layers were activated using Rectified Linear Unit function while the output layer was activated using the Sigmoid function
 - while trying to optimize the model performace, I added one more hidden layer with 10 neurons and I also increased the number of epochs to 200. This only slightly increased the accuracy but did not meet the goal of above 75%
+
+## Summary
+
+We were not able to achieve a result greater than 75%. I think that a different machine learning model should be used. Maybe a Random Forest model would prove to be more useful in this case.
