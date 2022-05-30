@@ -21,4 +21,4 @@ In this module, I helped Becks to analyze donations received by corporations fro
 
 ## Summary
 
-We were not able to achieve a result greater than 75%. I think that a different machine learning model should be used. Maybe a Random Forest model would prove to be more useful in this case.
+We were not able to achieve a result greater than 75%. I think that a different machine learning model should be used. Maybe a Random Forest model would prove to be more useful in this case as we will have many different decision trees. That would suit our model since our model involves binary classification. 
